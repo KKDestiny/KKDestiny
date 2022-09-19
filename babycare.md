@@ -1,7 +1,6 @@
+<img  width="100%" src="https://user-images.githubusercontent.com/13687360/191050645-0fdf2a23-f737-4d9e-b099-aec3412affb4.png">
+
 ### 宝护Babycare
-
-![image](https://user-images.githubusercontent.com/13687360/191039311-1f28d12b-c89f-4a69-987e-8b313a9f1c5a.png)
-
 
 **APK**
 
