@@ -3,7 +3,7 @@
 Hi, I'm Mike, a full-stack developer in Shenzhen, China.
 My website is https://linxiaozhou.com
 
-- Working at [Bridge5 Asia](https://github.com/bridge5) from 2020.4, focused on backend develoment on node.js
+- Working at [Bridge5 Asia](https://github.com/bridge5) from April, 2020, focused on backend develoment on node.js
 - I believe software can solve almost all difficulties in work and life, that's why I developed many apps or websites
 - Currently I'm focusing on typescript and react.js
 
