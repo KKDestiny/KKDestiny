@@ -20,7 +20,7 @@ I believe softwares can give us lots of conveniences in work and life and save m
 
 </details>
 
-These days I'm focusing on designing and developing a personal knowledge center at part time, which is entirely upgrade from the old websites. The Personal Knowledge Center(short for PKC) is made up of various frontend & backend services. Basis tech-stacks are react.js for frontend and node.js for backend. I will share some of them named like `pkc-service-xxx` or `pkc-react-xxx`.
+✨✨These days I'm focusing on designing and developing a personal knowledge center at part time, which is entirely upgrade from the old websites. **The Personal Knowledge Center**(short for PKC) is made up of various frontend & backend services. Basis tech-stacks are react.js for frontend and node.js for backend. I will share some of them named like `pkc-service-xxx` or `pkc-react-xxx`.
 
 
 💻 My website is https://linxiaozhou.com
