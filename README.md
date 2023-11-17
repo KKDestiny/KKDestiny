@@ -4,12 +4,24 @@ Hi, I'm Mike, a full-stack developer in Shenzhen, China. I'm now working at [Bri
 
 I have some personal products as follows:
 
-<div style="width: 100%;">
 <img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/b2f933b7-0b09-4458-80b9-26ba53651f59">
 <img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/6c207338-935a-4811-8fd0-ac5e8d04711e">
 <img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/578d6308-1868-4d5c-a1c7-72f4c9aa5e2a">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/5653304e-8229-4466-b252-df639d7757b0">
-</div>
+<img width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/5653304e-8229-4466-b252-df639d7757b0">
+
+
+<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/1c194ded-435d-4895-8ba5-57b69ecb101d">
+<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/f476111f-85fe-452a-83cf-e28161e48ec7">
+<img width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/2c551b27-490e-470b-841c-a02fdd4f96e7">
+
+
+
+
+
+💻 My website is https://linxiaozhou.com
+
+💻 My Blog is https://linxiaozhou.com/blog
+
 
 <details>
   <summary>Personal Products in 2022</summary>
@@ -30,6 +42,4 @@ I believe softwares can give us lots of conveniences in work and life and save m
 </details>
 
 
-💻 My website is https://linxiaozhou.com
-💻 My Blog is https://linxiaozhou.com/blog
 
