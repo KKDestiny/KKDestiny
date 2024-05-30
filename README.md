@@ -6,26 +6,16 @@ I'm working on developing apps both for iOS and Android on Cordova at part time.
 
 The latest product distributed on App Store is below:
 
-<img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/65113ed4-eb14-4549-a112-cc4276196690">
-<img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/dca7dc48-318d-46e3-a48d-5b6af5c1118f">
-<img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/09b2e3d6-cd32-4ec3-bce2-2c199671d0cf">
-<img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/e95a6ec5-b774-4cca-ad2d-d28b99b2aa4c">
+![poster01](https://github.com/KKDestiny/KKDestiny/assets/13687360/15c4add9-61f3-431d-96e8-8597906e3fb9)
+
 
 <details>
   <summary>健康轨迹</summary>
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/65113ed4-eb14-4549-a112-cc4276196690">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/dca7dc48-318d-46e3-a48d-5b6af5c1118f">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/09b2e3d6-cd32-4ec3-bce2-2c199671d0cf">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/711cd943-59b1-400c-9411-751de6c7db1b">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/784a1542-2b4b-41da-8902-0b7f7e02fff7">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/fc1a3651-9ba4-4413-87bd-1510ab26c0fb">
+![poster01](https://github.com/KKDestiny/KKDestiny/assets/13687360/15c4add9-61f3-431d-96e8-8597906e3fb9)
+![poster02](https://github.com/KKDestiny/KKDestiny/assets/13687360/e70f83a6-4165-4ae6-a51c-f4243bb9b889)
+![poster03](https://github.com/KKDestiny/KKDestiny/assets/13687360/9954ce21-ad06-4e87-a434-7d047ad5094b)
+![poster04](https://github.com/KKDestiny/KKDestiny/assets/13687360/f4782873-a73d-4048-9734-4448765d0a53)
 
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/02872dd4-645a-4628-a19d-3fd698f58c66">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/21772320-ec68-490e-a431-c37964af5c7a">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/b6792272-316f-4c8d-9c3b-6c2bdf0de15e">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/b722ef4a-aaa5-491d-85cf-780ff69c2b08">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/baff4e0f-be46-411a-b203-d3d7ac46e32f">
-<img align="left" width="22%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/e95a6ec5-b774-4cca-ad2d-d28b99b2aa4c">
 
 </details>
 
