@@ -6,13 +6,10 @@ I'm working on developing apps both for iOS and Android on Cordova at part time.
 
 The latest product distributed on App Store is below:
 
-<div>
 <img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/65113ed4-eb14-4549-a112-cc4276196690">
 <img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/dca7dc48-318d-46e3-a48d-5b6af5c1118f">
 <img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/09b2e3d6-cd32-4ec3-bce2-2c199671d0cf">
-<img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/711cd943-59b1-400c-9411-751de6c7db1b">
 <img align="left" width="23%" src="https://github.com/KKDestiny/KKDestiny/assets/13687360/e95a6ec5-b774-4cca-ad2d-d28b99b2aa4c">
-</div>
 
 <details>
   <summary>健康轨迹</summary>
